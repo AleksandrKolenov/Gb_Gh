@@ -34,10 +34,10 @@
 
 ## Учебное пособие 
 
-java script
-html
-C++ 
-java
+1. java script
+2. html
+3. C++ 
+4. java
 
 ## Заключение
 
